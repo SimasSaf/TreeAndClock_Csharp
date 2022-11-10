@@ -1,0 +1,15 @@
+C:\Tree_And_Clock\TreeAndClock\Clock\bin\Debug\net6.0\Clock.exe
+C:\Tree_And_Clock\TreeAndClock\Clock\bin\Debug\net6.0\Clock.deps.json
+C:\Tree_And_Clock\TreeAndClock\Clock\bin\Debug\net6.0\Clock.runtimeconfig.json
+C:\Tree_And_Clock\TreeAndClock\Clock\bin\Debug\net6.0\Clock.dll
+C:\Tree_And_Clock\TreeAndClock\Clock\bin\Debug\net6.0\ref\Clock.dll
+C:\Tree_And_Clock\TreeAndClock\Clock\bin\Debug\net6.0\Clock.pdb
+C:\Tree_And_Clock\TreeAndClock\Clock\obj\Debug\net6.0\Clock.csproj.AssemblyReference.cache
+C:\Tree_And_Clock\TreeAndClock\Clock\obj\Debug\net6.0\Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tree_And_Clock\TreeAndClock\Clock\obj\Debug\net6.0\Clock.AssemblyInfoInputs.cache
+C:\Tree_And_Clock\TreeAndClock\Clock\obj\Debug\net6.0\Clock.AssemblyInfo.cs
+C:\Tree_And_Clock\TreeAndClock\Clock\obj\Debug\net6.0\Clock.csproj.CoreCompileInputs.cache
+C:\Tree_And_Clock\TreeAndClock\Clock\obj\Debug\net6.0\Clock.dll
+C:\Tree_And_Clock\TreeAndClock\Clock\obj\Debug\net6.0\ref\Clock.dll
+C:\Tree_And_Clock\TreeAndClock\Clock\obj\Debug\net6.0\Clock.pdb
+C:\Tree_And_Clock\TreeAndClock\Clock\obj\Debug\net6.0\Clock.genruntimeconfig.cache

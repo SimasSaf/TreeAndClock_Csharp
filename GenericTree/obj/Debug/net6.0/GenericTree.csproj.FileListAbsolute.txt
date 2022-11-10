@@ -1,0 +1,15 @@
+C:\Tree_And_Clock\TreeAndClock\GenericTree\bin\Debug\net6.0\GenericTree.exe
+C:\Tree_And_Clock\TreeAndClock\GenericTree\bin\Debug\net6.0\GenericTree.deps.json
+C:\Tree_And_Clock\TreeAndClock\GenericTree\bin\Debug\net6.0\GenericTree.runtimeconfig.json
+C:\Tree_And_Clock\TreeAndClock\GenericTree\bin\Debug\net6.0\GenericTree.dll
+C:\Tree_And_Clock\TreeAndClock\GenericTree\bin\Debug\net6.0\ref\GenericTree.dll
+C:\Tree_And_Clock\TreeAndClock\GenericTree\bin\Debug\net6.0\GenericTree.pdb
+C:\Tree_And_Clock\TreeAndClock\GenericTree\obj\Debug\net6.0\GenericTree.csproj.AssemblyReference.cache
+C:\Tree_And_Clock\TreeAndClock\GenericTree\obj\Debug\net6.0\GenericTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tree_And_Clock\TreeAndClock\GenericTree\obj\Debug\net6.0\GenericTree.AssemblyInfoInputs.cache
+C:\Tree_And_Clock\TreeAndClock\GenericTree\obj\Debug\net6.0\GenericTree.AssemblyInfo.cs
+C:\Tree_And_Clock\TreeAndClock\GenericTree\obj\Debug\net6.0\GenericTree.csproj.CoreCompileInputs.cache
+C:\Tree_And_Clock\TreeAndClock\GenericTree\obj\Debug\net6.0\GenericTree.dll
+C:\Tree_And_Clock\TreeAndClock\GenericTree\obj\Debug\net6.0\ref\GenericTree.dll
+C:\Tree_And_Clock\TreeAndClock\GenericTree\obj\Debug\net6.0\GenericTree.pdb
+C:\Tree_And_Clock\TreeAndClock\GenericTree\obj\Debug\net6.0\GenericTree.genruntimeconfig.cache
