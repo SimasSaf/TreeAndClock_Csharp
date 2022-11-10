@@ -2,11 +2,10 @@
 
 public class RunClock
 {
-    //initialize
-    static Clock clock = new Clock(0, 0);
-    static ICalculations calc = new Calculations();
-    static String? _userInput;
-    static int _hour, minutes;
+    static readonly Clock clock = new Clock(0, 0);
+    static readonly ICalculations calc = new Calculations();
+    private static string? _userInput;
+    private static int _hour, _minutes;
 
     public static void StartClock()
     {
@@ -56,15 +55,15 @@ public class RunClock
         {
             _userInput = Console.ReadLine();
 
-            if (!int.TryParse(_userInput, out minutes))
+            if (!int.TryParse(_userInput, out _minutes))
             {
                 Console.WriteLine("-Input has to be a number-");
             }
             else
             {
-                if (minutes <= 60 && minutes >= 0)
+                if (_minutes <= 60 && _minutes >= 0)
                 {
-                    clock.SetMinutes(minutes);
+                    clock.SetMinutes(_minutes);
                     break;
                 }
                 else

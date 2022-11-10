@@ -1,5 +1,12 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6383f4d4_002D168e_002D41ed_002D8b3a_002Dfdce7ce17b0f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from UnitTest1.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6383f4d4_002D168e_002D41ed_002D8b3a_002Dfdce7ce17b0f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from UnitTest1.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;C16C45DF-BA48-4D89-9737-2EF44B457A57/f:ClockTest.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;C16C45DF-BA48-4D89-9737-2EF44B457A57/f:CalculationsTest.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;9627C50E-3192-48DD-98EE-270F64FC93F1/f:BranchTest.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c38e2c5b_002D8c0e_002D44b9_002Da079_002Db29fcc0755c3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;Or&gt;&#xD;
     &lt;ProjectFile&gt;C16C45DF-BA48-4D89-9737-2EF44B457A57/f:ClockTest.cs&lt;/ProjectFile&gt;&#xD;
     &lt;ProjectFile&gt;C16C45DF-BA48-4D89-9737-2EF44B457A57/f:CalculationsTest.cs&lt;/ProjectFile&gt;&#xD;
